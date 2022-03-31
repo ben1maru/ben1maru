@@ -1,0 +1,45 @@
+body {
+    font-family: Georgia;
+    font-size: 16px;
+    margin: 0 auto;
+    max-width: 70%;
+    line-height: 1.5;}
+h1{
+    font-size: 32px;
+}
+figcaption{
+    font-style: italic;
+    font-size: 16px;
+}
+table {
+    border: 1px solid black;
+    border-collapse: separate;
+    empty-cells: hide;
+}
+th, td {
+    border: 1px solid black;
+}
+.photo{
+    float: right;
+    margin: 0 0 1em 1em;
+}
+#firstcolomn{
+    width:100px;
+}
+#seconfcolomn{
+    width: 500px;
+}
+#thirtcolomn{
+    width:100px;
+}
+.otstup{
+    margin-left: 50px;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: -15px;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px;
+}
